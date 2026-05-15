@@ -1,7 +1,6 @@
 requests
 pandas
-plotly.express
-io
+plotly
 streamlit
 country_converter
-warnings
+lxml
