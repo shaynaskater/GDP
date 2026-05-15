@@ -1,0 +1,7 @@
+requests
+pandas
+plotly.express
+io
+streamlit
+country_converter
+warnings
